@@ -32,3 +32,11 @@
 
    ![avatar](../assets/ssh.jpg)
    ![avatar](../assets/success-ssh.jpg)
+
+7. 命令连接ssh
+
+      ssh -p 22 li@10.0.2.15
+
+      -p ： 端口号
+      li: 用户名
+      
